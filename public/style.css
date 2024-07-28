@@ -25,7 +25,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     max-width: var(--page_width);
-    margin: 1% auto 0;
+    margin: 70px auto 0;
     padding: 0 16px;
 
 }
@@ -35,7 +35,9 @@ body {
     display: flex;
     flex-direction: row;
     align-items: baseline;
+
 }
+
 
 .title {
     padding-right: 16px;
@@ -49,6 +51,7 @@ body {
 .page {
     display: flex;
     flex-direction: row;
+
 }
 
 .main {
@@ -65,13 +68,13 @@ body {
 .content {
     width: 100%;
     height: 80vh;
-    background-color: rgb(225, 255, 0);
+    background-color: rgb(221, 225, 255);
 }
 
 
 .footer {
     font-size: 12px;
-    background-color: darkorange;
+    background-color: rgb(162, 157, 255);
 }
 
 /* idk what to call this */
