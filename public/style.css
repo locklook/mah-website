@@ -27,7 +27,6 @@ body {
     max-width: var(--page_width);
     margin: 70px auto 0;
     padding: 0 16px;
-
 }
 
 .heading {
@@ -41,7 +40,7 @@ body {
 
 .title {
     padding-right: 16px;
-    font-size: 30px;
+    font-size: 24px;
 }
 
 .language {
@@ -51,7 +50,6 @@ body {
 .page {
     display: flex;
     flex-direction: row;
-
 }
 
 .main {
@@ -95,7 +93,6 @@ a:hover {
 a:visited {
     color: var(--text_main);
 }
-
 
 /* iframe stuff  */
 
